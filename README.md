@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-anand98" alt="om-anand98" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@a2n0a0n2d" target="blank"><img src="https://img.shields.io/twitter/follow/@a2n0a0n2d?logo=twitter&style=for-the-badge" alt="@a2n0a0n2d" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@a2n0a0n2d" target="blank"><img src="https://img.shields.io/twitter/follow/@a2n0a0n2d?logo=twitter&style=for-the-badge" alt="a2n0a0n2d" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
 
