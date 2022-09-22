@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-anand98" alt="om-anand98" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/a2n0a0n2d" target="blank"><img src="https://img.shields.io/twitter/follow/@a2n0a0n2d?logo=twitter&style=for-the-badge" alt="a2n0a0n2d" /></a> </p>
-
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Django, Flask, JS**
@@ -21,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@a2n0a0n2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@a2n0a0n2d" height="30" width="40" /></a>
+<a href="https://twitter.com/a2n0a0n2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a2n0a0n2d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/om anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om anand" height="30" width="40" /></a>
-<a href="https://instagram.com/@anandom68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@anandom68" height="30" width="40" /></a>
+<a href="https://instagram.com/anandom68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anandom68" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gpu19162171001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gpu19162171001" height="30" width="40" /></a>
 </p>
 
