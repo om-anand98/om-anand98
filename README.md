@@ -1,3 +1,5 @@
+<img src="https://datasysbd.com/wp-content/uploads/2018/07/cs-an.gif" />
+
 # 💫 About Me:
 🌱 I’m currently learning Django<br><br>
 👯 I’m looking to collaborate on Django, Flask, JS<br><br>
