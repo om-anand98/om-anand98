@@ -1,20 +1,21 @@
-<img src="https://datasysbd.com/wp-content/uploads/2018/07/cs-an.gif" />
+<div align="center">
+
+<img src="https://datasysbd.com/wp-content/uploads/2018/07/cs-an.gif" width="800" height="450" />
 
 # 💫 About Me:
-🌱 I’m currently learning Django<br><br>
-👯 I’m looking to collaborate on Django, Flask, JS<br><br>
-🤝 I’m looking for help with Django<br><br>
-💬 Ask me about Shell Scripting, Python<br><br>
-📫 How to reach me --> Twitter : @a2n0a0n2d<br><br>
+🌱 I’m currently learning Django<br>
+👯 I’m looking to collaborate on Django, Flask, JS<br>
+🤝 I’m looking for help with Django<br>
+💬 Ask me about Shell Scripting, Python<br>
+📫 How to reach me --> Twitter : @a2n0a0n2d<br>
 ⚡ Fun fact : Don't Drink🍺 and Code👨‍💻!
 
-
 ## 🌐 Socials:
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)<br>
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)<br>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<br>
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)<br>
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)<br>
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)
 
 # 💻 Tech Stack:
@@ -61,3 +62,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 [![](https://visitcount.itsvg.in/api?id=om-anand98&icon=8&color=0)](https://visitcount.itsvg.in)
+</div>
